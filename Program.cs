@@ -1,2 +1,1 @@
-some cs code
-push init text 2
+Console.WriteLine("Hello, World!");
